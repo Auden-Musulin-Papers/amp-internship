@@ -26,16 +26,15 @@ Helmut Neundlinger studied Philosophy and Literature at the University of Vienna
 Monika Seidl is Professor of Cultural Studies in the Department of English and American Studies at the University of Vienna. Her main areas of research include British Cultural Studies, popular culture, gender studies, as well as the multi-medial adaptation of literary classics. An expert on British literature of the 1930s and its connections with the German-speaking world, she has co-edited the seminal essay collection *Silence Turned into Objects: W. H. Auden in Kirchstetten* (Literaturedition Niederösterreich 2014). She is co-editor of the Auden Musulin Papers digital edition and contributor to the edition's scholarly commentary.
 
 ## **Sean Quigley** - ACDH-CH Intern
-(just placeholder text used for testing markdown and push/pull commits via git)
-Hmmm. *Markdown* is actually pretty sweet.
+Full bio coming soon. For now, here is a poem by Carl Sandburg.
 
-> "Fog" by [Carl Sandberg](https://poets.org/poet/carl-sandburg)
+> "Fog" by [Carl Sandburg](https://poets.org/poet/carl-sandburg)
 >
-> The fog comes
-> on little cat feet.
-> It sits looking
-> over harbor and city
-> on silent haunches
+> The fog comes <br>
+> on little cat feet. <br>
+> It sits looking <br>
+> over harbor and city <br>
+> on silent haunches <br>
 > and then moves on.
 
 
