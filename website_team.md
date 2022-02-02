@@ -7,9 +7,11 @@ Timo Frühwirth is a PhD student at the Austrian Centre for Digital Humanities a
 ## **Sandra Mayer** - Principal Investigator
 Sandra Mayer is a literary and cultural historian at the Austrian Academy of Sciences and its Austrian Centre for Digital Humanities and Cultural Heritage. Her research focuses on the areas of life writing, authorship and celebrity, transnational cultural encounters and reception processes. She is the author of a monograph on *Oscar Wilde in Vienna* (Brill 2018) and has (co-)edited books and special issues on themes such as *Life Writing and Celebrity* (Routledge 2019), "The Author in the Popular Imagination" (*Forum for Modern Language Studies* 2018), and "Life Writing and the Transnational" (*Comparative Critical Studies* 2022). (http://www.sandramayer.org)
 
-## **Daniel Stoxreiter** - 
+## **Daniel Stoxreiter** - Research Software Engineer
+Daniel Stoxreiter is a research software engineer at the Austrian Academy of Sciences and its Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH). In the current project he is in charge of the Digital Edition website developement.
 
-
+## **Sean Quigley** - ACDH-CH Intern
+Sean Quigley is a master's student in English and American Studies at the University of Vienna. His research interests include Restoration comedy, American modernist poetry, and mid-century avant-garde poetry movements. He is writing his master's thesis on the little magazines of the "Mimeo Revolution." Before moving into literary studies, he worked in the transportation industry developing a mobility-on-demand mobile app. 
 
 # **Co-Investigators & Project Partners**
 
@@ -25,17 +27,7 @@ Helmut Neundlinger studied Philosophy and Literature at the University of Vienna
 ## **Monika Seidl** - Co-Investigator
 Monika Seidl is Professor of Cultural Studies in the Department of English and American Studies at the University of Vienna. Her main areas of research include British Cultural Studies, popular culture, gender studies, as well as the multi-medial adaptation of literary classics. An expert on British literature of the 1930s and its connections with the German-speaking world, she has co-edited the seminal essay collection *Silence Turned into Objects: W. H. Auden in Kirchstetten* (Literaturedition Niederösterreich 2014). She is co-editor of the Auden Musulin Papers digital edition and contributor to the edition's scholarly commentary.
 
-## **Sean Quigley** - ACDH-CH Intern
-Full bio coming soon. For now, here is a poem by Carl Sandburg.
 
-> "Fog" by [Carl Sandburg](https://poets.org/poet/carl-sandburg)
->
-> The fog comes <br>
-> on little cat feet. <br>
-> It sits looking <br>
-> over harbor and city <br>
-> on silent haunches <br>
-> and then moves on.
 
 
 
