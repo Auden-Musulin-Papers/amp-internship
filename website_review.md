@@ -59,7 +59,7 @@ There are two free alternatives that could be viable:
 To be clear, a story map would be a separate "feature" than the embedded maps on the timeline. But it's a great way to display any kind of content that has a location attachted to it. 
 
 ### Mobile version
-Need to work on keeping design elements centered in mobile views. [Here](mobile-screenshot.PNG), for instance, the view-changing buttons look wonky. Maybe the elements should shrink as little bit when the viewport gets below a certain width, so that they can all fit on one line. 
+Need to work on keeping design elements centered in mobile views. [Here](mobile_screenshot.PNG), for instance, the view-changing buttons look wonky. Maybe the elements should shrink as little bit when the viewport gets below a certain width, so that they can all fit on one line. 
 
 ### Stray observations
 - When it is implemented I think the index will be a great way to get people into the letters. You might consider adding another category, which could go on the table of contents, that has some sort of curation. "Our favorite letters," "letters where Auden makes a joke," "letters containing poem drafts,"  or whatever (I don't know what the actual categories would be). The idea is to get people hooked if they stumble onto the page, so tantalize them with the juicy bits up front. 
