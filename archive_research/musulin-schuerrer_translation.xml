@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="musulin-schuerr_translation">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Europe: The dead have nothing to laugh about.</title>
+            <title level="a">Translation by Stella Musulin</title>
+            <author>
+               <name>Schürrer, Hermann</name>
+               <name>Musulin, Stella</name>
+               <name>Quigley, Sean</name>
+            </author>
+            <funder>
+               <name>FWF Austrian Science Fund</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition></edition>
+            <respStmt>
+               <resp>Original author (German)</resp>
+               <name>Schürrer, Hermann</name>
+            </respStmt>
+            <respStmt>
+               <resp>Translation (English)</resp>
+               <name>Musulin, Stella</name>			   
+            </respStmt>
+            <respStmt>
+               <resp>XML Transcription</resp>
+               <name>Quigley, Sean</name>			   
+            </respStmt>            
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Not published - for internal use only!</publisher>
+            <availability>
+               <licence>
+                  <p>This material is part of the estate of Hermann Schüerr and is owned by the Vienna Library. It is not licensed or available to you in any way.</p>
+               </licence>
+               <p>Copyright literary text 1974 International P.E.N. Books</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>This file was created by Sean Quigley as a test exercise. It was converted from Markdown to XML using the free tool at https://oxgarage.tei-c.org/#</note>
+         </notesStmt>
+         <sourceDesc>
+            <p>Nachlass Hermann Schürrer, Wienbibliothek</p>
+            <p> Box 3, Item 7:</p>
+            <p>7.) Europe: The Dead have nothing to laugh about</p>
+            <p>Typoskript einer ins Englische übersetzten Textpassage (S. 23-27 des Buches)</p>
+            <p>o.D.; 5 Bl., Übersetzung von Stella Musulin</p>
+            <p>[davon 2. Exemplar vorhanden, 5 Bl.</p>
+            <p>See https://permalink.obvsg.at/wbr/AC15889253 for more info. </p>
+         </sourceDesc>
+         
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="squigley" when="2022-2-10">text created</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>EUROPE: The dead have nothing to laugh about.</p>
+         <p>Hermann Schürrer EUROPA: Die Toten haben nichts zu lachen.</p>
+         <p>After this intimate interlude and more of the kind, I</p>
+         <p>decided to take up my cross, and having otherwise no idea how</p>
+         <p>to spend my time, to take up some occupation which tied in,</p>
+         <p>approximately at least, with my interests. I thought it over</p>
+         <p>for years, tried first this and then that, but the limitations,</p>
+         <p>the routine, and the compulsion involved in all forms of work</p>
+         <p>with which I was unable to identify myself, repelled me. All</p>
+         <p>right: the orchid and tne marigold can exist in a swamp and in</p>
+         <p>a village both the cretin and the carver of crucifixes, in the</p>
+         <p>town there's the pub-crawl on Saturday night and the Sunday</p>
+         <p>outing to the country, it's the fate of humanity to be either</p>
+         <p>hammer or anvil. Knowing as I did that a board of examiners</p>
+         <p>gave the future German dramatist Gerhart Hauptmann C minus for</p>
+         <p>German language, and that another board declared Giuseppi Verdi</p>
+         <p>to be unmusical, on the whole I felt more inclined to test the</p>
+         <p>competence of the board of examiners than to follow the dubious</p>
+         <p>reciprocal procedure. Finally, I was obliged - pecunia olet -</p>
+         <p>to take the plunge, I was assessed as of average intelligence and</p>
+         <p>was given excellent marks. I noticed the intolerable arrogance</p>
+         <p>of these little a sses, the presumption which issued fron their</p>
+         <p>heads, leaving them hollow. It amused me. I translated the</p>
+         <p>bill of lading of a British trading vessel from the King's English</p>
+         <p>into Lutheran German. A truckload of files shipped from Bombay,</p>
+         <p>heading for Liverpool. I was taken aback. Could this be a portent?</p>
+         <p>To clarify the situation I added to my translation a comment that</p>
+         <p>the bill of lading must be fictitious. Like all colonial powers,</p>
+         <p>England only exploited her colonies (in this case India) by</p>
+         <p>importing raw materials. So as to keep the colonies trotting</p>
+         <p>trotting on a lead, weak and well-behaved, they processed the booty</p>
+         <p>it the mother country. Those were the golden years when the.</p>
+         <p>illiterate natives had to work for the primary school literate</p>
+         <p>white colonisers. All this, together with opium plantations and</p>
+         <p>other tricks, was presumably the cause of starvation and poverty</p>
+         <p>in the developing countries today, and had led in these parts of</p>
+         <p>the world to the total loss of prestige of the European countries.</p>
+         <p>Thus I became a bank clerk, but the manager explained to me that</p>
+         <p>- 2 -</p>
+         <p>commentaries were out of place here and that I should confine</p>
+         <p>myself to handling the financinl operations of the bank. How</p>
+         <p>did Brecht put it? It is more lucrative and criminal to found</p>
+         <p>a bank than to rob it. I saw the way that the employees</p>
+         <p>didn't dare to go home after working hours, the way that they</p>
+         <p>watched each other and worked on, because they were afraid of</p>
+         <p>the sack. This servility revolted me to such an extent thet I</p>
+         <p>chose the lesser of two evils, true to the proverb: non scolae</p>
+         <p>sed vitae discimus, and continued my studies. I busied myself</p>
+         <p>with characterology and occupational idiocy, and once I had</p>
+         <p>confronted the individual occupations - stripped of the nimbus</p>
+         <p>which they diffused - with reality, I arrived at extraordinarily</p>
+         <p>depressing conclusions. Primarily, I was interested in those</p>
+         <p>professions, spiritual, intellectual and secular, which form the</p>
+         <p>backbone of society. This a dded up to a moral deficit, the</p>
+         <p>debit and credit of which appeared to have sprung from the mind</p>
+         <p>of a maniac, a public danger poisoning all other living beings.</p>
+         <p>Again and again I had to call to mind the remark of the English</p>
+         <p>historian Lord Acton, so as to understand the state of the world:</p>
+         <p>power corrupts, absolute power corrupts absolutely. This</p>
+         <p>corruption begins at the root of the incipiently rotten fruit,</p>
+         <p>with the teacher and the young. The young person is brought up</p>
+         <p>to be a good citizen, normally speaking a human being with many</p>
+         <p>duties and no idea of his in any case scanty rights. Take any</p>
+         <p>state form at random: dictatorship, oligarchy, democracy, and</p>
+         <p>the teacher is an obedient mercenary who is compelled to cook,</p>
+         <p>suppress or over-emphasize the facts, so that he is training the</p>
+         <p>young person rather than teaching him. The results we saw and</p>
+         <p>we see in the faithful subject, venial and without character,</p>
+         <p>a vegetative creature erroneously equipped with a brain.</p>
+         <p>Brains on toast. It is only in the natural sciences, since the</p>
+         <p>Pope and le bon dieu have withdrawm a little, that it is seldom</p>
+         <p>possible to act the white sepulchre, at nuclear defence (or</p>
+         <p>attack) parties. I have often wondered what the definition of</p>
+         <p>the state is, and who has convincingly defined it. I had the</p>
+         <p>choice, and on account of my own experiences I chose no submissive</p>
+         <p>constitutional philosopher but an independent thinker, the Danish</p>
+         <p>3.</p>
+         <p>philosopher Kierkegaard with his epigrammatic bullseye: "the</p>
+         <p>state is the most antisocial being". Shakespeare once trans-</p>
+         <p>planted a saying <del>by</del> spoken by Hamlet which is now proverbial</p>
+         <p>(i.e. it is valid for all the world) to Denmark: "There is</p>
+         <p>something rotten in the state of Denmark." That this applied</p>
+         <p>in neither case to Denmark alone, or in the second case only to</p>
+         <p>Shakespeare's time, I don't need to point out, the 20th century</p>
+         <p>too was never short of dead men. This is the angle from which |</p>
+         <p>civil servants are to be considered. The politicians in their</p>
+         <p>dirty trade, who lost face long ago but are able to bluff their</p>
+         <p>way through because politics are off limits for the people. The</p>
+         <p>opportunist<del>ic</del> way they shift their ground, yes/no compromises,</p>
+         <p>in case of necessity their change of allegiance and use of force.</p>
+         <p>The judge who represents the threadbare legal principles of his</p>
+         <p>state, so that one state demands the death sentence, another,</p>
+         <p>life, the third an acquittal. The subjective, arbitrary</p>
+         <p>character of the judgments, months or years according to</p>
+         <p>discretion, the varying capacity of the judge, from stupidity</p>
+         <p>to the human average, the latent venality, political when the</p>
+         <p>Reichstag burned, financial, not charging Krupp with aiding and</p>
+         <p>abetting murder, but giving him an order for distinguished public</p>
+         <p>service, aside from that the poor subservient accused, who puts</p>
+         <p>the judge in a milder mood, on his historical career from the</p>
+         <p>Inquisition to political trials, judgments coloured by the trends</p>
+         <p>of the time, judgments arising from social prejudices, superstition.</p>
+         <p>faith, unbelief, that all adds up to something in the course of</p>
+         <p>time. The soldier who was always ready to march towards all</p>
+         <p>points of the compass and to shoot at anyone he was told to shoot,</p>
+         <p>anonymous and obedient, the horde. The policeman who carries</p>
+         <p>out every order, against no matter whom, a tool, devoid of all</p>
+         <p>willpower, of every social order, primitive and brutal, an</p>
+         <p>automaton with a mental outlook confined to the police station.</p>
+         <p>The parson who mouths his empty phrases, blesses and crowns the</p>
+         <p>rich, preaches humility to the poor and promises them the Kingdon</p>
+         <p>of Heaven, who pours curses upon Communism because it demands</p>
+         <p>heaven on earth for all, not for the few. Who as a Puritan is</p>
+         <p>convinced that the citizen (human being) partakes of divine grace</p>
+         <p>in proportion to his wealth in earthly goods, so that the</p>
+         <p>wealthiest is closest to God, the poorest furthest from HIM.</p>
+         <p>4.</p>
+         <p>Emperors, kings and the nobility used to belong to the first</p>
+         <p>category, now it's arms manufacturers, owners of oilwells, giants</p>
+         <p>of industry. The doctor, who "in case of necessity" perforns</p>
+         <p>enuthenasia and the vivisection of political unreliables. The</p>
+         <p>industrialist, who liquidates the weaker party, when business</p>
+         <p>stagnates, puts the worker on minimum wages, grants him a weekly</p>
+         <p>or monthly gratuity. The peasant with his rapacity and stupid</p>
+         <p>piety. The worker with his reduced intellectual needs, he</p>
+         <p>wants to go to the movies, watch television or football; this</p>
+         <p>mental zero with his public library.</p>
+         <p>With its past and present every European country, civil servants</p>
+         <p>and citizens, has a history which would bring a criminal into</p>
+         <p>prison as an incorrigible.</p>
+         <p>So I sailed into the arms of prohibition, which would almost have</p>
+         <p>crushed me, had I not heard his voice from Mount Olympus: What</p>
+         <p>is to be done, spake Zeus, the gods are druhk. I decided to</p>
+         <p>take my place in the ranks of the righteous band of the Gothamites</p>
+         <p>and misfits and study philosophy and psychology to discover what</p>
+         <p>keeps the world in one piece in spite of everything. For a while</p>
+         <p>I flew the flag at half mast. Yet no one mourned. Bit by bit I</p>
+         <p>shifted the navel of my world from place to place, a globetrotter</p>
+         <p>to whom the earth's surface, these trifling 510 million square</p>
+         <p>kilometres, is always too small, trying all the time to discover</p>
+         <p>what's under its make-up, in my own way, on the unending journey</p>
+         <p>from the magma core to Etna, from the zero meridian to the fixed</p>
+         <p>star, from the fixed star to Fort Knox, from Fort Knox to the</p>
+         <p>Mount of Olives, from the Mount of Olives to the Bobaum, from the</p>
+         <p>Bobaum to Mecca, Manchester and Peking. I came back into this</p>
+         <p>world at last, only to set off for another. Thus began my ballet</p>
+         <p>in the rococo theatre with the straw: I kiss your hand, Pan,</p>
+         <p>mouth to mouth with a nymph. Sounds of a flute. Valhalla of the</p>
+         <p>muses. But when I noticed that in my fatal position there were</p>
+         <p>some movements which I was unable to make, such as praying,</p>
+         <p>going down on my knees, aiming at hearts or heads, the customary</p>
+         <p>protuberances of hysteria developed. In the capacity of steward</p>
+         <p>I boarded a jet, flew upwards, later I noticed that I was flying</p>
+         <p>down again (to the runway). I landed. Mute, I listen to</p>
+         <p>5.</p>
+         <p>La Traviata as it whizzes through the air, I water the Sahara,</p>
+         <p>murder tsetse flies, conduct the Pacific Ocean into the</p>
+         <p>Mediterranean, cross the Atlantic, raise my Atlantis once more</p>
+         <p>from the waters and in daytime sink it again in a Red Sea, and</p>
+         <p>dive nightly like a shark mannikin into the yellow sea before the</p>
+         <p>white house, smoke a meerschaum pipe among pike, for I can feel</p>
+         <p>that land and water are no more. With an elevation superbe I</p>
+         <p>arise from out of primeval floods and sit in the lobby with the</p>
+         <p>keys of Heaven and Hell. No one closes and no one opens.</p>
+         <p>(Translator: Stella Musulin)</p>
+         <p>© 1974 International P.E.N. Books</p>
+      </body>
+   </text>
+</TEI>
