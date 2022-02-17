@@ -20,7 +20,7 @@ Trying to figure this out, I found that the Harry Ransom Center at the U of Texa
 
 All of this might have been a waste of time, but I found it pretty interesting. How Musulin came into contact with Schürrer, why he asked her to translate a few pages of his book, why she agreed, and how exactly P.E.N. is involved is a mystery to me, but it suggests Musulin was interested in, or at least open to, all kinds of stylistic and political ideas. 
 
-In any case, I made [a .pdf scan](archive_research/musulin-schuerrer_translation.pdf) of Musulin's translation, and I [scanned](archive_research/SchuerrerExcerpt.pdf) the corresponding passage in the published German edition. Just "for fun" I also made a [Markdown](archive_research/musulin-schuerrer_translation.md) transcriptions of Musulin's translation and converted them to [XML](archive_research/musulin-schuerrer_translation.xml). 
+In any case, I made [a .pdf scan](archive_research/musulin-schuerrer_translation.pdf) of Musulin's translation, and I [scanned](archive_research/SchuerrerExcerpt.pdf) the corresponding passage in the published German edition. Just "for fun" I also made a [Markdown](archive_research/musulin-schuerrer_translation.md) transcription of Musulin's translation and converted it to [XML](archive_research/musulin-schuerrer_translation.xml). 
 
 ## Austrian National Library
 
