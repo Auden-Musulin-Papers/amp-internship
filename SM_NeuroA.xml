@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="SM_Neuro_A.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a"></title>
+            <author></author>
+            <editor>
+               <name>Quigley, Sean</name>
+            </editor>
+            <funder>
+               <name>FWF Austrian Science Fund</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>AMP</edition>
+            <respStmt>
+               <resp>Original author (German)</resp>
+               <name>Musulin, Stella</name>
+			 </respStmt>
+			 <respStmt>
+               <resp>Transcription</resp>
+               <name>Quigley, Sean</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>St. Pölten</settlement>
+                        <repository>State Collections of Lower Austria</repository>
+                        <collection>Helga Köcher</collection>
+                        <idno>1, 7</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate></origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">German</language>
+         </langUsage>
+      </profileDesc>
+	  <revisionDesc status="draft">
+         <change who="squigley" when="2022-2-25">transcription created</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="transcription">
+				<p>
+					STATION NEURO-A<lb/>
+					Eine Szenenfolge für Fernsehen in 9 Bildern.<lb/>
+					Buch und Regie: Stella Musulin.<lb/>
+					Textauflage: Minimal.<lb/>
+					Verteilung: Familie.<lb/>
+					----------------<lb/>
+				</p>
+			<pb/>
+				<p>
+					Ein kleines Einbettzimmer mit WC; übliche K<unclear>B</unclear>ankenhauseinrichtung.<lb/>
+					Die sterile Ordnung ist nur durch eine rote Reisetasche leicht<lb/>
+					gestört.<lb/>
+				</p>
+				<p>
+					Bild 1. 7ch früh. Patientin steht vor dem Waschbecken, sie<lb/>
+					ist splitternackt. Sie wäscht sich. Jemand klopft an der Türe<lb/>
+					und im gleichen Augenblick schaut ein südosteuropäisches Gesicht<lb/>
+					ins Zimmer.<lb/>
+					Gesicht: Krone?<lb/>
+					Patientin (greift zum Handtuch) Nein, lieber den Kurier.<lb/>
+					Gesicht: Nix Kurier. Kurier morgen. (Es verschwindet).<lb/>
+				</p>
+				<lb/>
+				<p>
+					Bild 2. ca. 8 h. Patientin hat gefrühstückt, liegt im Bett<lb/>
+					und liest. (Während der ganzen Sendung tauchen sehr häufig<lb/>
+					verschiedene Mitglieder des Personals auf indem sie anklopfen und<lb/>
+					sofort eintreten, tun was sie zu tun haben und sich mit Auf<lb/>
+					Wiedersehen verabschieden. Das Anklopfen hat nicht den geringsten<lb/>
+					praktischen Wert, besitzt jedoch umso größeren symbolischen Inhalt<lb/>
+					denn es bedeutet SONDERKLASSE. Wie folgt...)<lb/>
+					Klopf-<unclear>R</unclear>üre-auf-grüß Gott, ein hochgewachsener junger Mann, weißes<lb/>
+					Hemd und Hose, rote Gummihandschuhe. Er schaut in das WC,<lb/>
+					spritzt Tofix, das Wasser rauscht und schon ist er weg. Auf<lb/>
+					Wiedersehen.<lb/>
+					Patientin: Auf Wiedersehen.<lb/>
+					Pause.<lb/>
+					8h10. Ein zweiter sportlich aussehender Mann, ebenfalls<lb/>
+					begummihandschuht, kommt herein, grüßt wie gehabt, reinigt den<lb/>
+					Waschbecken, wirft einen Blick aufs Etagère, sieht Zahnputzglas,<lb/>
+					Deospray, Haarschampon, Fönschaum, Kukident usw. usf. und enthält<lb/>
+					sich jeder weiteren Reinigungstätigkeit. Auf Wiedersehen!<lb/>
+					Patientin erwidert.<lb/>
+					(Merke: Während 3 Wochen hat niemals der gleiche Mensch Klo und<lb/>
+					Waschbecken geputzt.)<lb/>
+					Weitere Szenen zeigen ganz kurz jene Bedienerin, die Fensterbrett.<lb/>
+					Nachttisch und andere gehobene Flächen von Staub befreit, und jene<lb/>
+					mündere Wesen die den Boden feucht aufwischen.
+				</p>
+				<p>
+					Bild 3. Höhepunkt des Vormittags, der ganz große KLOPFGRÜßGOTT:<lb/>
+				</p>
+				<pb/>
+				<p>
+					2.<lb/>
+				</p>
+				<p>
+					Die Visite ist nur 2 Sekunden lang sichtbar: der<lb/>
+					P<unclear>e</unclear>imarius, sein Assistentarzt, 2 Ärztinnen, Stationsschwester Hermi,<lb/>
+					eine Physiotherapeutin, eine Logotherapeutin, eine Diätassistentin,<lb/>
+					diverse Krankenpfleger und -pflegerinnen.<lb/>
+				</p>
+				<p>
+					Bild 4. 10 Tage später.<lb/>
+					Das Zimmer hat sich völlig verändert. Zwei große Blumenvasen<lb/>
+					mit Fresien, Rosen etc. dominieren und lenken ein wenig von der<lb/>
+					allgemeinen Angeräumtheit ab. Ein Fernsehapparat, Telephon,<lb/>
+					Bücher und ein Stoß von ca. 20 Zeitschriften beanspruchen die<lb/>
+					größeren Flächen. Auf dem Fensterbrett stehen Joghurt, Buttermilch,<lb/>
+					Weizenkleie, gehamsterte Pertionen <del>xxx</del> Marmelade, Becel und Honig,<lb/>
+					Obst, Topfenschnitten. Topfenschnitten deshalb, weil der<lb/>
+					Patientin mitgeteilt wurde, ihr Cholesterinspiegel sei etwas zu<lb/>
+					hoch, woraufhin sie, plötzlich von unüberwindbarer Sehnsucht nach<lb/>
+					dieser besonders eidotterreichen Mehlspeise erfüllt, aus dem<lb/>
+					Grei<unclear>s</unclear>lerladen einen kleinen V<unclear>S</unclear>rrat geholt hat, so unter dem Motto<lb/>
+					Jetzt Erst Recht.<lb/>
+					Patientin wartet auf die Infusion.<lb/>
+					Ein junger Arzt, er trägt Vollbart, geht eilends auf das Bett zu,<lb/>
+					ruft FAUST MACHEN! und versucht die <unclear>W</unclear>nen am Unterarm der Patientin<lb/>
+					hochzuklopfen. Er sticht, die Krankenschwester bietet Klebe¬<lb/>
+					streifen.) Alle blicken zur Infusionsflasche hinauf. Arzt:<lb/>
+					Sie sind Schriftstellerin, gö? Aus Wales?<lb/>
+					Die Infusionsflasche rührt sich nicht.<lb/>
+					Arzt: Mein Lieblingsdichter ist Dylan Thomas.<lb/>
+					Patientin: Ein ganz großer, können die Kritiker sagen was sie<lb/>
+					wollen.<lb/>
+					Arzt: So ein Mist wie Ihre Venen! Probier mas halt woanders.<lb/>
+					Faust machen! (Er klopft ungeduldig, mal da, mal dort.) Was sagen<lb/>
+					Sie zum heurigen Ingeborg-Bachmann-Preis?<lb/>
+					Patientin: Wenigstens sind Sie dem Reich-Ranicki losgeworden,<lb/>
+					dieser Giftschlange.<lb/>
+					Arzt entscheidet sich für den Handrücken, er ist ohnehin bereits<lb/>
+					vielfärbig. Alle blicken gebannt zur Flasche hinauf. Flasche<lb/>
+					schweigt.<lb/>
+					xzt.Ihre Venen sind total verkalkt und sie platzen andauernd.<lb/>
+					amma nichts machen, gö? Gesenkten Kopfes verläßt er das Zimmer,<lb/>
+					Schwester schaut ihm ein wenig peinlich berührt nach.<lb/>
+					Pause. Eine junge Arztin kommt herein, hängt Patientin mühelos<lb/>
+				</p>
+				<pb/>
+				<p>
+					3.<lb/>
+				</p>
+				<p>
+					und kommentarlos an die Flasche, stellt das Tempo des Tropfens ein<lb/>
+					und verschwindet. Patientin liest so gut es mit einer Hand geht<lb/>
+					in einer Biographie Helmuths von Moltke weiter.<lb/>
+				</p>
+				<p>
+					Bild 5. Gleiche Einrichtung. Patientin im Bett, Bedienerin<lb/>
+					wischt den Boden, sie ist fast so breit wie hoch. Bedienerin<lb/>
+					bleibt stehen, lehnt sich an die Wand.<lb/>
+					Bedienerin: Ich sag Ihna, Frau M, ich wüßte nicht was ich<lb/>
+					machen sollte. Ich weiß es wirklich nicht. (Sie erwacht aus<lb/>
+					ihrer Trance und wird energisch<del>;</del>): ICH WEIß ABSOLUT NICHT WAS<lb/>
+					ICH MIT ALL DEM GELD MACHEN WÜRDE! ZWANZG MILLIONEN!<lb/>
+					Patientin: Wenn Sie was gewinnen, am gescheitesten Sie sagen<lb/>
+					erst einmal keinem Menschen was davon. Die Nachbarn und so.<lb/>
+					Bedienerin: Ha! Da haben Sie aber recht Frau M., diese <unclear>E</unclear>eut,<lb/>
+					eine Neidgenossenschaft.<lb/>
+					Patientin: Dann investieren Sie das Kapital, bauen a Häusl...<lb/>
+					Bedienerin: Mir haben a Haus. Und... mir ist des Alles zu fad...<lb/>
+					Na! Man muß sich des alles vurstellen können. (Mit ihrem Wischen<lb/>
+					hat sie die Türe erreicht). Also, bis später, gö?<lb/>
+					Eine kurze Pause. Patientin kehrt zu Moltke zurück.<lb/>
+				</p>
+				<p>
+					Bild 7. Schwester Ingrid rauscht herein. Sie ist eigentlich<lb/>
+					häßlich, aber ein edler Typ, rein dinarisch. Patientin nennt<lb/>
+					sie für sich Horseface und mag sie sehr gern.<lb/>
+					Horseface: Frau M., was muß ich hören?<lb/>
+					Patientin: (fährt zusammen) Habe ich wieder was angestellt?<lb/>
+					Horseface: Das nicht; unterlassen haben Sie was. Meinetwegen<lb/>
+					sind Sie der einzige Mensch in diesem Krankenhaus der keinen<lb/>
+					Lottoschein ausgefüllt hat. Nicht einmal um 6 schilling!<lb/>
+					Patientin: Hab für einen Augenblick gedacht Sie wollen wegen<lb/>
+					den Stuhlproben schimpfen, daß ich sie noch nicht zusammen...<lb/>
+					Horseface: Ach wo, das hat Zeit. Aber L<unclear>S</unclear>ttoscheine hole ich<lb/>
+					für uns beide und wir füllen sie aus.<lb/>
+					patmentin: Aber die Chancen stehen ein paar Milliard zu eins!<lb/>
+					Horseface: Wurscht! Alle haben die gleichen Chancen!<lb/>
+					idwechsel zeigt Horseface und Patientin nebeneinander<lb/>
+					dem Bett sitzend. Sie füllen die Lotteriescheine aus.<lb/>
+				</p>
+				<pb/>
+				<p>
+					4.<lb/>
+				</p>
+				<p>
+					Horseface legt sie zusammen, steht auf und spricht: Und wenn wir<lb/>
+					gewonnen haben, fahren mir zwa miteinander in die Karibik!<lb/>
+				</p>
+				<p>
+					Zwischendurch werden die Geräuschkulissen vordergründig, vor<lb/>
+					allem die endlosen Gespräche von vor der Türe stehenden männlichen<lb/>
+					Patienten, die ihre Zahnprothesen zu entbehren meinen.<lb/>
+				</p>
+				<p>
+					Bild <unclear>4</unclear>. Eine Parkbank vor dem Krankenhaus. Menschen in Pyjama<lb/>
+					und Schlafrock spazieren hin und her. Unsere Patientin führt<lb/>
+					ein belangloses Gespräch mit einer Dame aus dem Volk.<lb/>
+					Patientin (mitten im Satz): ... ich bin zwar nicht von hier,<lb/>
+					ich komme aus Nieder...<lb/>
+					Dame aus dem Volk: (unterbricht) Klar, Sie sind nicht von hier,<lb/>
+					Sie sind Deutsche!<lb/>
+					Patientin: Ich bin nicht Deutsche!<lb/>
+					D.a.d.V: Doch, Sie sind Deutsche, auf jeden Fall stammen Sie<lb/>
+					aus Deutschland.<lb/>
+					Patientin: Ich versichere Ihnen, weder noch, sondern ich<lb/>
+					komme aus N...<lb/>
+					D.a.d.V: DANN SIND SIE VOM ADEL!<lb/>
+					Patientin (beherrscht sich mit Mühe): Jetzt kommen Sie der Sache<lb/>
+					etwas näher.<lb/>
+					D.a.d.V: Sagte ich eh. (Erfreut, daß sie das letzte Wort hat,<lb/>
+					steht sie auf und entfernt sich.)<lb/>
+				</p>
+				<p>
+					Bild <unclear>9</unclear>. Der Tag der Entlassung ist endlich da. Zimmer wie in<lb/>
+					Bild 1, aufgeräumt bis auf den Haufen Zeitschriften. Patientin<lb/>
+					ist abreisefertig, nervös weil sie nur mehr auf einen Wisch von<lb/>
+					dermVerwaltung wartet. Eine junge Bedienerin eilt herbei, spricht<lb/>
+					ufgeregt: Na, fahren Sie schon - Sie wollten mir noch den<lb/>
+					Kräutertee aufschreiben!<lb/>
+					Patientin (Nach 3 Wochen<del>k</del>kennt sie alle Wehwehchen der Familie<lb/>
+					dieser lieben Kleinbauerntochter): Freilich, habe ich schon.<lb/>
+					Bei Blähungen, oder bei jede<unclear>r</unclear> Magenverstimmung, trinken Sie diese<lb/>
+					Mischung aus Kamillentee, Kümmel und Fenchel. (Schreibt ein paar<lb/>
+					Worte, legt dem Zettel 100 schilling bei und überreicht sie.<unclear>d</unclear>er<lb/>
+					Bedienerin.<lb/>
+				</p>
+				<pb/>
+				<p>
+					5.
+				<p>
+					Bedienerin (strahlt): Oh, danke! Aber haben Sie noch Zeit -<lb/>
+					ich muß Ihnen noch was erzählen. Habe ich I<unclear>h</unclear>nen ja gesagt, daß<lb/>
+					ich schrecklich verstopft bin? Jetzt passen Sie auf, Sie werden<lb/>
+					mir nicht glauben. Der Vater hat mir ein Mitt<del>t</del>el gegeben, ein<lb/>
+					Zäpfchen war s, aber KEIN ABFÜHRMITTEL (sie lacht herzlich<unclear>s</unclear>)<lb/>
+					Na. Es war ein Mittel gegen HAMORRHOIDEN. Ich schreibs Ihnen auf.<lb/>
+					Zuerst ist nichts gesche<unclear>he</unclear>n und ich hab zu meinem Vater gesagt,<lb/>
+					Du, hab ich gesagt, des ist nix. Aber zwei Stunden später (sie<lb/>
+					breitet die Arme aus) HABE ICH SOOO EINEN STUHL GEHABT! Frau M.,<lb/>
+					Sie können sich sowas UBERHAUPT NET VURSTELLEN.<lb/>
+					Patientin (beglückwünscht zu diesem gigantischen Naturereignis,<lb/>
+					steht auf, verabschiedet sich): Und bleiben Sie gesund, göö?<lb/>
+				</p>
+				<p>				
+					Die Geräuschkulissen werden wieder vordergründig, man hört ein<lb/>
+					fernes Klappern, die Zahnlosen mauscheln im Kärntner Dialekt,<lb/>
+					ihre Stimmen wirken, wie immer, rauh und unnötig laut. Bildschirm<lb/>
+					<del>löscht.</del> <unclear>vedenlalt But</unclear><lb/>
+               </p>
+         </div>
+      </body>
+   </text>
+</TEI>
